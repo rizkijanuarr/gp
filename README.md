@@ -12,7 +12,7 @@ Langkah-langkah untuk menginstal GP pada mesin Anda, sebagai berikut:
 
 1. Clone repositori ini
     ```bash
-    git clone git@github.com:rizkijanuarr/gp.git / git clone https://github.com/rizkijanuarr/gp.git
+    git clone git@github.com:rizkijanuarr/gp.git atau git clone https://github.com/rizkijanuarr/gp.git
     ```
 2. Masuk ke direktori
     ```bash
